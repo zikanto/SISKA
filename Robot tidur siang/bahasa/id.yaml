@@ -20,12 +20,12 @@ pm_start_text: |
   ✪ Tekan /help untuk melihat perintah saya yang tersedia.
    
 group_start_text: |
-  *👋🏻 Hai Sayang, aku Robot Siesta!* 
+  *👋🏻 Hai Sayang, aku SISKA!* 
   
   *Mulai aktif sejak :* `{}`
 
 pm_about_text: |
-  ✺ Hai Sayang saya *Siesta Robot*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ✺
+  ✺ Hai Sayang saya *SISKA*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ✺
 
   ✪ Saya dapat membatasi pengguna.
   ✪ Saya dapat menyapa pengguna dengan pesan selamat datang yang dapat disesuaikan dan bahkan menetapkan aturan grup.
@@ -663,9 +663,9 @@ search_help: |
     ❂ /github <username>*:* Dapatkan informasi tentang pengguna GitHub.
     ❂ /country <nama negara>*:* Mengumpulkan info tentang negara tertentu
     ❂ /imdb <Nama film>*:* Dapatkan info lengkap tentang film dengan imdb.com
-    ❂ Siesta <query>*:* Siesta menjawab pertanyaan
+    ❂ SISKA <query>*:* SISKA menjawab pertanyaan
 
-    💡 Contoh : `Siesta di mana Jepang?`
+    💡 Contoh : `SISKA di mana Jepang?`
 stickers_help: |
     ──「 Stiker 」──
 
